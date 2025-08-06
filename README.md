@@ -70,7 +70,7 @@ src/
 - Modularização seguindo padrão NestJS
 
 ## 📝 Autor(a)
-Desenvolvido com 💚 por Maeli Palharini
+Desenvolvido por Maeli Palharini💚 
 
 📚 Em transição de carreira para área de tecnologia
 🎓 Engenharia Florestal • Análise e Desenvolvimento de Sistemas
